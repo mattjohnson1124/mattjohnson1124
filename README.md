@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mattjohnson1124
+- 👀 I’m interested in the intersection of data, economics, and psychology.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on any data-based problems, including machine learning.
+- 📫 Best way to reach me is email: mattjohnson1124@gmail.com
